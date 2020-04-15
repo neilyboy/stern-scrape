@@ -1,5 +1,6 @@
 # stern-scrape
 scrape https://www.howardstern.com for episode info
+(this is my first script so be nice)
 
 Simple bash script to pull episode data about SiriusXM Howard Stern episodes.
 ```bash
