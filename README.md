@@ -31,5 +31,7 @@ https://d1o0agh0cxj49r.cloudfront.net/photos/2020/04/13/102-51225-sal-1-thss-041
 https://d1o0agh0cxj49r.cloudfront.net/photos/2020/04/13/102-51223-01-15-20-high-pitch-erik-and-chris-wilding-in-new-truck-2--1586801526.jpg
 ```
 
+The output is what I am using to throw in comments of id3 tag on mp3 recording of show.
+
 Screenshot:
 ![stern-scrape-screenshot](https://user-images.githubusercontent.com/9546844/79399757-ce609e00-7f49-11ea-9c0c-a0fd8b3cd7fe.png)
